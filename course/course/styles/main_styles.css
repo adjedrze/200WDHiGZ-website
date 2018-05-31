@@ -914,6 +914,10 @@ section
 {
 	margin-top: 68px;
 }
+.course_box
+{
+	margin-bottom: 108px;
+}
 .card
 {
 	display: block;
@@ -1072,7 +1076,7 @@ section
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
-	opacity: 0.23;
+	opacity: 0.80;
 }
 .search_title
 {
